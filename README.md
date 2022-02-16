@@ -29,6 +29,8 @@ n1=n2
 n2=temp
 print("Swapped values are: {} {}".format(n1,n2))
 ~~~
+## outpu:
+![](tham.png)
 
 
 
